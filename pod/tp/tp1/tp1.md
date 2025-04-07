@@ -1,0 +1,4 @@
+- Créer un pod avec l'image Ghost dans un manifest.
+- Vérifier que le pod a été crée correctement.
+- En cas de problème, faire les opérations de vérification (describe ou logs) pour identifier le problème.
+- Afficher le contenu du conteneur dans un navigateur avec port-forward.
